@@ -12,6 +12,4 @@ From Week 1 to Week 4, Assessment Preparation Challenges: weekly optional challe
 
 The notes are re-constructed from the [repo](https://github.com/drpawelo/web-and-social-network-analytics-notes).
 
-Make some changes
-
 
